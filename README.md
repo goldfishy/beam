@@ -133,3 +133,15 @@ To get involved with Apache Beam:
 * [Subscribe to](https://beam.apache.org/community/contact-us/#:~:text=Subscribe%20and%20Unsubscribe) or e-mail the [dev@beam.apache.org](http://mail-archives.apache.org/mod_mbox/beam-dev/) list.
 * [Join ASF Slack](https://s.apache.org/slack-invite) on [#beam channel](https://s.apache.org/beam-slack-channel)
 * [Report an issue](https://github.com/apache/beam/issues/new/choose).
+
+## 🦆 A Goose Poem
+
+In the stream of data flowing free,
+A goose glides through with grace to see,
+With PCollections in its wake,
+Transforming all for Beam's own sake.
+
+Through Flink and Spark it takes its flight,
+From batch to streaming, day and night,
+Honking wisdom, proud and bright,
+Apache Beam—a true delight!
