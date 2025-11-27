@@ -133,3 +133,27 @@ To get involved with Apache Beam:
 * [Subscribe to](https://beam.apache.org/community/contact-us/#:~:text=Subscribe%20and%20Unsubscribe) or e-mail the [dev@beam.apache.org](http://mail-archives.apache.org/mod_mbox/beam-dev/) list.
 * [Join ASF Slack](https://s.apache.org/slack-invite) on [#beam channel](https://s.apache.org/beam-slack-channel)
 * [Report an issue](https://github.com/apache/beam/issues/new/choose).
+
+---
+
+## Ode to the Goose
+
+*In streams of data, graceful and bright,*
+*A goose takes flight through pipelines of light.*
+*With honking calls through batches it streams,*
+*Processing data in parallel dreams.*
+
+*Through PCollections vast and wide,*
+*Our feathered friend does glide and stride.*
+*With transforms chained from start to end,*
+*The noble goose—the dev's best friend.*
+
+*On Flink, on Spark, on Dataflow's cloud,*
+*The goose flies swift, both strong and proud.*
+*Through runners fast and SDKs grand,*
+*It conquers data across the land.*
+
+*So here's to geese both wild and tame,*
+*Who helped inspire Beam's mighty name.*
+*In code we trust, in streams we flow,*
+*With honks of joy, we watch data go!*
